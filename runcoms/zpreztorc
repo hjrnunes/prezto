@@ -33,6 +33,7 @@ zstyle ':prezto:load' pmodule \
   'history' \
   'directory' \
   'spectrum' \
+  'gnu-utility' \
   'utility' \
   'completion' \
   'prompt' \
@@ -45,7 +46,7 @@ zstyle ':prezto:load' pmodule \
   'ssh' \
   'git' \
   'terminal' \
- 
+
 #
 # Autosuggestions
 #
